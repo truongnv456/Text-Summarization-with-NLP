@@ -23,7 +23,7 @@ Dataset 3 contains dialogues wherein participants discuss various tasks or assig
 This dataset can be beneficial in developing named entity recognition (NER) models tailored to identify task-related entities in conversations. Possible applications include project management tools that can automatically track task assignments based on team discussions.
 
 ## Dataset Format
-Each dataset is provided in a machine-readable format, ensuring easy integration with popular NLP libraries and frameworks. The data is organized into JSON or CSV files, containing dialogue text, corresponding summaries (for Dataset 1), annotated tasks (for Dataset 2), and named entities (for Dataset 3).
+...
 
 ## Contact
 If you have any questions, suggestions, or concerns related to these datasets or the repository in general, feel free to contact us through the issue tracker or via email at truong@gmail.com.
