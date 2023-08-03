@@ -8,12 +8,12 @@ Dataset 1 contains a collection of dialogues paired with corresponding summaries
 ### Potential Use Cases:
 This dataset can be utilized to train and evaluate models for text summarization tasks in a conversational context. It can be valuable for tasks such as chatbot response generation, conversation compression, and dialogue summarization.
 
-## Dataset 2: Task Extraction
+## Dataset 2: Task Summarization Extraction 
 ### Description:
-Dataset 2 is focused on task extraction from dialogues. It consists of conversations involving one or more participants discussing various tasks, activities, or to-do items. The dataset includes annotations for the specific tasks mentioned within the dialogues.
+Dataset 2 is focused on task summarization extraction from dialogues. It consists of conversations involving one or more participants discussing various tasks, activities, or to-do items. The dataset includes annotations for the specific tasks mentioned within the dialogues.
 
 ### Potential Use Cases:
-Researchers and developers can leverage this dataset to build models for task extraction and understanding in conversational data. Applications of this dataset include virtual assistants capable of extracting actionable tasks from user conversations and task-oriented dialogue systems.
+Researchers and developers can leverage this dataset to build models for task summarization extraction and understanding in conversational data. Applications of this dataset include virtual assistants capable of extracting actionable tasks from user conversations and task-oriented dialogue systems.
 
 ## Dataset 3: Named Entity Extraction for Tasks
 ### Description:
@@ -21,9 +21,6 @@ Dataset 3 contains dialogues wherein participants discuss various tasks or assig
 
 ### Potential Use Cases:
 This dataset can be beneficial in developing named entity recognition (NER) models tailored to identify task-related entities in conversations. Possible applications include project management tools that can automatically track task assignments based on team discussions.
-
-## Dataset Format
-...
 
 ## Contact
 If you have any questions, suggestions, or concerns related to these datasets or the repository in general, feel free to contact us through the issue tracker or via email at truong@gmail.com.
