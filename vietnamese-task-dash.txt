@@ -1,0 +1,14 @@
+nhiệm_vụ
+đảm_nhiệm_vai_trò
+đảm_nhận_vai_trò
+đảm_nhận_công_việc
+đảm_nhiệm_nhiệm_vụ
+được_phân_công_việc
+được_giao_công_việc
+đã_giao_cho
+phụ_trách_công_việc
+sẽ_giao_công_việc
+sẽ_phân_công_việc
+phân_công_công_việc
+sẽ_tiến_hành
+đảm_nhận

@@ -1,0 +1,13 @@
+vncorenlp
+datasets==1.0.2
+transformers==4.1.1
+git-python==1.0.3
+#sacrebleu==1.4.12
+rouge_score
+PyYAML
+gsutil
+streamlit
+torch
+numpy==1.23.4
+dill==0.3.5.1
+urllib3==1.26.12

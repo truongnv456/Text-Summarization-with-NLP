@@ -1,0 +1,24 @@
+NOI_DUNG_TOM_TAT 
+
+Cuộc họp phân công nhiệm vụ, dự án xây dựng trang web quản lý chi tiêu cá nhân.
+
+NHIEM_VU 
+
+Lam sẽ đảm nhận dựa trên các đề xuất của thành viên, nhóm đã thống nhất các chức năng chính như sau Ghi lại và phân loại các giao dịch tài chính (thu, chi, vay, cho vay, đầu tư, tiết kiệm, v.v.).Tính toán và hiển thị tổng số tiền đã chi và thu.Xây dựng báo cáo và biểu đồ thống kê về các khoản thu chi.Thiết lập mục tiêu tiết kiệm và theo dõi tiến trình.Gửi thông báo nhắc nhở về các khoản thanh toán và hạn mức tiền.
+Tạo ra các loại tài khoản khác nhau để phân tách các mục đích sử dụng.
+Ánh  xây dựng phần giao diện người dùng (UI) của trang web bằng ngôn ngữ HTML, CSS và JavaScript, đảm bảo tính tương thích và phản hồi tốt trên các thiết bị khác nhau, cũng như thảo luận về giao diện người dùng và cách tạo trải nghiệm tốt cho người dùng, đề xuất một giao diện thân, dễ sử dụng và có tính tương tác cao  . 
+Ngọc  sẽ đảm nhận vai trò  Xây dựng và phát triển phần backend cho trang web trên. Nhiệm vụ  Xây dựng hệ thống Backend của trang web, bao gồm cơ sở dữ liệu, thiết kế cơ sở dữ liệu, các chức năng xử lý dữ liệu và giao tiếp với Fronten, đảm nhận việc kiểm tra và thử nghiệm trang web.
+ Cường sẽ phụ trách việc viết báo cáo hàng tuần, cũng như viết tài liệu hướng dẫn cho người sử dụng. 
+
+
+NOI_DUNG_GOC 
+Trong cuộc họp giao nhiệm vụ của chúng ta lần này, chúng ta đã quyết định phân công nhiệm vụ, dự án xây dựng trang web quản lý chi tiêu cá nhân. Dưới đây là phân công cụ thể và deadline cho các thành viên  Lam sẽ đảm nhận dựa trên các đề xuất của thành viên, nhóm đã thống nhất các chức năng chính như sau 
+Ghi lại và phân loại các giao dịch tài chính (thu, chi, vay, cho vay, đầu tư, tiết kiệm, v.v.).
+Tính toán và hiển thị tổng số tiền đã chi và thu.
+Xây dựng báo cáo và biểu đồ thống kê về các khoản thu chi.
+Thiết lập mục tiêu tiết kiệm và theo dõi tiến trình.
+Gửi thông báo nhắc nhở về các khoản thanh toán và hạn mức tiền.
+Tạo ra các loại tài khoản khác nhau để phân tách các mục đích sử dụng.
+Nhiệm vụ của Ánh là xây dựng phần giao diện người dùng (UI) của trang web bằng ngôn ngữ HTML, CSS và JavaScript, đảm bảo tính tương thích và phản hồi tốt trên các thiết bị khác nhau, cũng như thảo luận về giao diện người dùng và cách tạo trải nghiệm tốt cho người dùng, đề xuất một giao diện thân, dễ sử dụng và có tính tương tác cao  . Ngọc  sẽ đảm nhận vai trò  Xây dựng và phát triển phần backend cho trang web trên. Nhiệm vụ  Xây dựng hệ thống Backend của trang web, bao gồm cơ sở dữ liệu, thiết kế cơ sở dữ liệu, các chức năng xử lý dữ liệu và giao tiếp với Frontend . Đồng thời Ngọc sẽ đảm nhận việc kiểm tra và thử nghiệm trang web. Cường sẽ phụ trách việc viết báo cáo hàng tuần, cũng như viết tài liệu hướng dẫn cho người sử dụng. 
+Chúng ta sẽ thiết lập các cuộc họp định kỳ để theo dõi tiến độ và giải quyết các vấn đề nảy sinh trong quá trình phát triển. Để đảm bảo hoàn thành dự án đúng hạn, các thành viên được khuyến khích trình bày ý kiến, cùng nhau giải quyết khó khăn và tuân thủ deadline được đề ra.
+
