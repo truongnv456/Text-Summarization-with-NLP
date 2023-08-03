@@ -23,4 +23,4 @@ Dataset 3 contains dialogues wherein participants discuss various tasks or assig
 This dataset can be beneficial in developing named entity recognition (NER) models tailored to identify task-related entities in conversations. Possible applications include project management tools that can automatically track task assignments based on team discussions.
 
 ## Contact
-If you have any questions, suggestions, or concerns related to these datasets or the repository in general, feel free to contact us through the issue tracker or via email at truong@gmail.com.
+If you have any questions, suggestions, or concerns related to these datasets or the repository in general, feel free to contact us through the issue tracker or via email at viettruonghd1020@gmail.com.
