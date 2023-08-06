@@ -1,0 +1,13 @@
+NOI_DUNG_TOM_TAT:
+
+Cuộc họp  của công ty Việt Hưng nhằm bàn về việc xây dựng trò chơi Bingo trên nền tảng Linux. 
+
+NHIEM_VU:
+An có nhiệm vụ: Thiết kế giao diện người dùng (UI) cho trò chơi Bingo trên nền tảng Linux, công việc là tạo các màn hình chính, menu và giao diện chơi trò chơi Bingo trên Linux. Yêu cầu: Thiết kế các nút điều khiển, biểu tượng và hình ảnh phù hợp với giao diện Linux.
+Bình có nhiệm vụ: Phát triển phần logic và cơ chế chơi Bingo trong trò chơi. công việc là xây dựng hệ thống quy tắc và cơ chế chơi trò chơi Bingo. Yêu cầu: Lập trình các tính năng như chọn số, kiểm tra kết quả và ghi điểm.
+Chi có nhiệm vụ: Xử lý âm thanh và hiệu ứng âm thanh cho trò chơi Bingo trên nền tảng Linux, công việc: Tạo âm thanh nền, hiệu ứng âm thanh và nhạc nền phù hợp cho trò chơi. Yêu cầu: Đảm bảo âm thanh phù hợp với tình huống và sự kiện trong trò chơi Bingo..
+
+NOI_DUNG_GOC:
+Cuộc họp  của đã diễn ra tại công ty Việt Hưng  nhằm bàn về việc xây dựng trò chơi Bingo trên nền tảng Linux. Anh Xuân Bắc đã chủ tọa và điều phối quá trình làm việc.
+Mỗi thành viên trong nhóm đã được phân công nhiệm vụ cụ thể để đảm nhận trong quá trình phát triển trò chơi Bingo trên nền tảng Linux. Dưới đây là phân công và deadline cho mỗi thành viên: An có nhiệm vụ: Thiết kế giao diện người dùng (UI) cho trò chơi Bingo trên nền tảng Linux, công việc là tạo các màn hình chính, menu và giao diện chơi trò chơi Bingo trên Linux. Yêu cầu: Thiết kế các nút điều khiển, biểu tượng và hình ảnh phù hợp với giao diện Linux.Bình có nhiệm vụ: Phát triển phần logic và cơ chế chơi Bingo trong trò chơi. công việc là xây dựng hệ thống quy tắc và cơ chế chơi trò chơi Bingo. Yêu cầu: Lập trình các tính năng như chọn số, kiểm tra kết quả và ghi điểm.Chi có nhiệm vụ: Xử lý âm thanh và hiệu ứng âm thanh cho trò chơi Bingo trên nền tảng Linux, công việc: Tạo âm thanh nền, hiệu ứng âm thanh và nhạc nền phù hợp cho trò chơi. Yêu cầu: Đảm bảo âm thanh phù hợp với tình huống và sự kiện trong trò chơi Bingo.Cuộc họp đã kết thúc với sự cam kết từ mỗi thành viên về việc hoàn thành nhiệm vụ của mình đúng hạn. Mục tiêu của chúng ta là tạo ra một trò chơi Bingo chất lượng và hấp dẫn trên nền tảng Linux, mang lại trải nghiệm tốt cho người chơi.Biên bản cuộc họp này được lưu lại để làm tài liệu tham khảo và theo dõi tiến độ công việc.
+

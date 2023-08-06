@@ -1,0 +1,15 @@
+NOI_DUNG_TOM_TAT:
+
+Phân công nhiệm vụ code phần frontend của trang web quản lý món ăn cho ba thành viên trong nhóm.
+
+NHIEM_VU:
+
+Thu sẽ đảm nhận vai trò chính trong việc phát triển phần giao diện người dùng (UI) của trang web quản lý món ăn. Thiết kế giao diện chính của trang web, bao gồm trang chủ, danh sách món ăn, chi tiết món ăn, và trang đặt hàng. Xây dựng các thành phần UI như menu điều hướng, bộ lọc, và form đặt hàng. Deadline: 2 tuần 
+Linh sẽ đảm nhận nhiệm vụ tạo các chức năng tương tác trên giao diện người dùng.:Xử lý sự kiện như thêm/xóa món ăn vào giỏ hàng, cập nhật số lượng, và tính tổng giá trị đơn hàng. Giao tiếp với phần backend để nhận dữ liệu món ăn và hiển thị chúng trên giao diện. Deadline: 3 tuần
+ Ngọc sẽ đảm nhận vai trò kiểm thử và tối ưu hóa trang web quản lý món ăn.Kiểm tra tính đúng đắn và độ tương thích trên các trình duyệt và thiết bị khác nhau. Tối ưu hóa hiệu suất và tốc độ tải trang của trang web. Deadline: 1 tuần sau khi thành viên Linh hoàn thành nhiệm vụ của mình.
+THỜI GIAN  THỰC HIÊN sẽ từ12/05/2023 đến 12/06/2023 
+
+NOI_DUNG_GOC:
+
+Vào hồi 14 giờ 30 phút ngày 12 tháng 5 năm 2023,trong cuộc họp giao nhiệm vụ của công ty Khánh Trung,, chúng ta đã quyết định phân công nhiệm vụ code phần frontend của trang web quản lý món ăn cho ba thành viên trong nhóm. Dưới đây là phân công cụ thể và deadline cho mỗi thành viên: Thu sẽ đảm nhận vai trò chính trong việc phát triển phần giao diện người dùng (UI) của trang web quản lý món ăn. Anh ta sẽ được giao các nhiệm vụ sau: Thiết kế giao diện chính của trang web, bao gồm trang chủ, danh sách món ăn, chi tiết món ăn, và trang đặt hàng. Xây dựng các thành phần UI như menu điều hướng, bộ lọc, và form đặt hàng. Deadline: 2 tuần từ ngày hôm nay. Linh sẽ đảm nhận nhiệm vụ tạo các chức năng tương tác trên giao diện người dùng. Anh ta sẽ thực hiện các công việc sau: Xử lý sự kiện như thêm/xóa món ăn vào giỏ hàng, cập nhật số lượng, và tính tổng giá trị đơn hàng. Giao tiếp với phần backend để nhận dữ liệu món ăn và hiển thị chúng trên giao diện. Deadline: 3 tuần từ ngày hôm nay. Ngọc sẽ đảm nhận vai trò kiểm thử và tối ưu hóa trang web quản lý món ăn. Nhiệm vụ cụ thể của anh ta bao gồm: Kiểm tra tính đúng đắn và độ tương thích trên các trình duyệt và thiết bị khác nhau. Tối ưu hóa hiệu suất và tốc độ tải trang của trang web. Deadline: 1 tuần sau khi thành viên Linh hoàn thành nhiệm vụ của mình. Chúng ta sẽ thiết lập các cuộc họp định kỳ để theo dõi tiến độ và giải quyết các vấn đề nảy sinh trong quá trình phát triển. Để đảm bảo hoàn thành dự án đúng hạn, các thành viên được khuyến khích trình bày ý kiến, cùng nhau giải quyết khó khăn, và tuân thủ deadline được đề ra.
+

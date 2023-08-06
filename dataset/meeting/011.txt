@@ -1,0 +1,17 @@
+NOI_DUNG_TOM_TAT:
+
+Cuộc họp giao nhiệm vụ của công ty Việt á, chúng ta đã quyết định phân công nhiệm vụ thiết kế căn hộ dành cho nhóm bao gồm 4 thành viên.
+
+NHIEM_VU:
+
+Quyên sẽ đảm nhận vai trò chính trong việc thiết kế kiến trúc và bố cục căn hộ. Nhiệm vụ của Quyên bao gồm: Tạo bản vẽ thiết kế kiến trúc tổng quan cho căn nhà, bao gồm bố cục sơ đồ các phòng, kích thước tổng quan, và vị trí cửa, cửa sổ . Deadline: 1 tuần 
+ Chi sẽ đảm nhận nhiệm vụ thiết kế nội thất và lựa chọn vật liệu. nhiệm vụ: Đề xuất các ý tưởng về nội thất, gồm lựa chọn vật liệu, màu sắc, thiết kế các phòng riêng biệt như phòng khách, phòng ngủ, phòng bếp, và phòng tắm.
+ Hùng ta sẽ thực hiện các công việc sau: thiết kế hệ thống điện và nước. Nhiệm vụ: Xác định và thiết kế hệ thống điện và nước cho căn nhà, bao gồm các điểm điện, ổ cắm, công tắc, đèn chiếu sáng, hệ thống cấp và thoát nước. Deadline: 1 tuần sau khi thành viên Hùng hoàn thành nhiệm vụ. 
+Trung có nhiệm vụ thiết kế kết cấu và kiến trúc xây dựng  Nhiệm vụ: Tạo bản vẽ kết cấu của căn nhà, bao gồm sàn, tường, mái, cột, và các hệ thống xây dựng khác như hệ thống xử lý nhiệt, âm thanh, và chống cháy.
+THỜI GIAN THỰC HIÊN : 2 tuần 
+
+
+NOI_DUNG_GOC:
+
+Trong cuộc họp giao nhiệm vụ của công ty xây dưng Việt Á  chúng ta đã quyết định phân công nhiệm vụ thiết kế căn hộ dành cho nhóm bao gồm 4 thành viên. Dưới đây là phân công cụ thể và deadline cho mỗi thành viên: Quyên sẽ đảm nhận vai trò chính trong việc thiết kế kiến trúc và bố cục căn hộ. Nhiệm vụ của Quyên bao gồm: Tạo bản vẽ thiết kế kiến trúc tổng quan cho căn nhà, bao gồm bố cục sơ đồ các phòng, kích thước tổng quan, và vị trí cửa, cửa sổ . Deadline: 1 tuần từ ngày hôm nay. Chi sẽ đảm nhận nhiệm vụ thiết kế nội thất và lựa chọn vật liệu. nhiệm vụ: Đề xuất các ý tưởng về nội thất, gồm lựa chọn vật liệu, màu sắc, thiết kế các phòng riêng biệt như phòng khách, phòng ngủ, phòng bếp, và phòng tắm. Hùng ta sẽ thực hiện các công việc sau: thiết kế hệ thống điện và nước. Nhiệm vụ: Xác định và thiết kế hệ thống điện và nước cho căn nhà, bao gồm các điểm điện, ổ cắm, công tắc, đèn chiếu sáng, hệ thống cấp và thoát nước. Deadline: 1 tuần sau khi thành viên Hùng hoàn thành nhiệm vụ của mình. Trung có nhiệm vụ thiết kế kết cấu và kiến trúc xây dựng  Nhiệm vụ: Tạo bản vẽ kết cấu của căn nhà, bao gồm sàn, tường, mái, cột, và các hệ thống xây dựng khác như hệ thống xử lý nhiệt, âm thanh, và chống cháy.
+Chúng ta sẽ thiết lập các cuộc họp định kỳ để theo dõi tiến độ và giải quyết các vấn đề nảy sinh trong quá trình phát triển. Để đảm bảo hoàn thành dự án đúng hạn, các thành viên được khuyến khích trình bày ý kiến, cùng nhau giải quyết khó khăn và tuân thủ deadline được đề ra.

@@ -1,0 +1,46 @@
+NOI_DUNG_TOM_TAT:
+
+  Báo cáo tiến độ thiết kế giao diện cho trang web quản lý chi tiêu. 
+
+NHIEM_VU:
+
+Tuấn đã  thiết kế và hoàn thiện một số phần của giao diện, bao gồm trang đăng nhập và trang chính hiển thị thông tin tổng quan về chi tiêu.
+Tùng sẽ hoàn thành phần của mình bằng cách làm việc từ xa và cập nhật tiến độ qua email.
+Thuý đã hoàn thành thiết kế giao diện cho trang xem chi tiết giao dịch và trang báo cáo thống kê. Những phần này đã được Tuấn kiểm tra và đánh giá tích cực. Tôi cũng đã gửi các tài liệu liên quan cho Tuấn để anh có thể tiếp tục công việc
+.Tuấn cung cấp bản tóm tắt tiến độ cho mọi người trong vòng 24 giờ.
+Trọng chuẩn bị một bảng phân chia nhiệm vụ tiếp theo.
+Tuấn thiết kế giao diện trang quản lý danh mục, thời hạn là 25 tháng 6. 
+Thúy tiếp tục làm việc trên trang tạo giao dịch mới, hạn là 11 tháng 6
+ Tùng sẽ chịu trách nhiệm hoàn thiện trang quản lý người dùng, hạn là 01/07/2023
+Trọng sẽ sắp xếp một cuộc họp tuần sau để đánh giá tiến trình và giải quyết các vấn đề nếu có.
+
+THÒI GIAN : ngày 20/6/2023 đến 01/07/2023
+
+
+
+NOI_DUNG_GOC:
+
+Trọng: Xin chào mọi người! Cảm ơn vì đã có mặt trong buổi họp ngày hôm nay.ngày 2//2023 Chúng ta sẽ bắt đầu báo cáo tiến độ thiết kế giao diện cho trang web quản lý chi tiêu. Trước hết, tôi xin tóm tắt lại công việc đã được giao và chúng ta sẽ nghe báo cáo từ từng thành viên.
+Tuấn: Xin chào mọi người, tôi sẽ bắt đầu. Từ khi chúng ta bắt đầu dự án, tôi đã tiến hành nghiên cứu thiết kế giao diện, thu thập ý kiến từ người dùng tiềm năng và tạo một bản thiết kế ban đầu dựa trên những thông tin đó. Tuy nhiên, do các rào cản kỹ thuật, tôi đã gặp một số khó khăn và chưa hoàn thành được thiết kế cuối cùng. Tôi xin lỗi vì sự chậm trễ này.
+Thúy: Điều đó không sao, Tuấn. Chúng ta hiểu rằng tai nạn làm bạn gặp trở ngại không mong muốn. Nhưng có gì bạn đã hoàn thành cho đến nay?
+Tuấn: Tôi đã thiết kế và hoàn thiện một số phần của giao diện, bao gồm trang đăng nhập và trang chính hiển thị thông tin tổng quan về chi tiêu. Các phần này đã được đánh giá tích cực bởi nhóm người dùng thử nghiệm. Tuy nhiên, vẫn còn một số phần nhỏ chưa hoàn thành như trang quản lý danh mục và trang tạo giao dịch mới.
+Tùng: Tôi xin lỗi vì không thể hoàn thành công việc của mình. Vì tai nạn, tôi không thể làm việc trong thời gian dự kiến. Tuy nhiên, tôi đã cố gắng hoàn thành phần của mình bằng cách làm việc từ xa và cập nhật tiến độ qua email.
+Trọng: Xin lưu ý rằng chúng ta hiểu và đồng thông những khó khăn mà Tuấn và Tùng đã gặp phải. Chúng ta rất biết ơn sự nỗ lực của các bạn trong dự án này. Các bạn còn gặp khó khăn gì nữa không?
+Thúy: Về phần của mình, tôi đã hoàn thành thiết kế giao diện cho trang xem chi tiết giao dịch và trang báo cáo thống kê. Những phần này đã được Tuấn kiểm tra và đánh giá tích cực. Tôi cũng đã gửi các tài liệu liên quan cho Tuấn để anh ta có thể tiếp tục công việc.
+Trọng: Cảm ơn, Thúy. Vậy với tình hình hiện tại, chúng ta cần phải thống nhất lịch trình và điều chỉnh công việc. Tuấn, chúng ta sẽ đánh giá những phần mà bạn đã hoàn thành và xác định một kế hoạch hoàn thiện từ phần còn lại. Tùng, bạn có thể chia sẻ với chúng ta các khả năng làm việc của mình để chúng ta có thể phối hợp và hoàn thiện dự án một cách tốt nhất không?
+Tùng: Tất nhiên, Trọng. Tôi đã bắt đầu khỏe hơn và sẵn lòng đóng góp vào dự án. Chúng ta có thể thảo luận và tìm cách phối hợp công việc để hoàn thành thiết kế giao diện.
+Trọng: Rất tốt! Chúng ta sẽ cùng nhau hoàn thiện thiết kế giao diện cho trang web quản lý chi tiêu. Tuấn, chúng ta sẽ liên hệ với nhau sau cuộc họp này để xác định kế hoạch cụ thể. Còn lại, chúng ta sẽ tiếp tục làm việc và gửi thông báo tiến độ qua email hàng tuần.
+Tuấn: Đồng ý. Tôi sẽ cung cấp bản tóm tắt tiến độ cho mọi người trong vòng 24 giờ.
+Thúy: Tuyệt! Chúng ta sẽ giữ liên lạc để đảm bảo mọi công việc diễn ra một cách suôn sẻ.
+Trọng: Rất cảm ơn sự cống hiến của mọi người. Chúng ta đã vượt qua được những trở ngại và sẽ hoàn thành dự án này thành công. Có còn ý kiến hay câu hỏi gì khác không?
+Tuấn, Thúy, Tùng: Không có.
+Trọng: Dựa trên những gì đã được hoàn thành và tình hình hiện tại, tôi đã chuẩn bị một bảng phân chia nhiệm vụ tiếp theo.
+Trọng: Theo bảng này, tôi đã giao cho Tuấn phần thiết kế giao diện trang quản lý danh mục, thời hạn là 25 tháng 6. Thúy sẽ tiếp tục làm việc trên trang tạo giao dịch mới, hạn là 11 tháng 6 và Tùng sẽ chịu trách nhiệm hoàn thiện trang quản lý người dùng, hạn là 01/07.
+Tuấn, Thúy, Tùng: Đồng ý, chúng tôi sẽ hoàn thành nhiệm vụ của mình.
+Trọng: Rất tuyệt! Chúng ta cần đảm bảo rằng tiến độ làm việc được tuân thủ chặt chẽ. Tôi sẽ sắp xếp một cuộc họp tuần sau để đánh giá tiến trình và giải quyết các vấn đề nếu có.
+Tuấn, Thúy, Tùng: Rõ, chúng tôi sẽ sẵn sàng cho cuộc họp tuần sau.
+
+Trọng: Cảm ơn mọi người đã cam kết. Chúng ta hãy tiếp tục làm việc chăm chỉ và giữ liên lạc thường xuyên để đảm bảo công việc diễn ra thuận lợi.
+Tuấn, Thúy, Tùng: Đồng ý, chúng tôi sẽ giữ liên lạc và cống hiến để hoàn thiện dự án.
+Trọng: Rất tốt. Chúng ta kết thúc cuộc họp ở đây. Cảm ơn mọi người đã tham gia và sẵn sàng đóng góp vào dự án.
+

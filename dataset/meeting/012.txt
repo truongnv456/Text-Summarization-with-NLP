@@ -1,0 +1,19 @@
+NOI_DUNG_TOM_TAT:
+
+Trong cuộc họp giao nhiệm vụ của công ty Vạn Hoa đã quyết định phân công nhiệm vụ code trang web quản lý nhân sự cho năm thành viên trong nhóm. 
+
+NHIEM_VU:
+
+Phương sẽ đảm nhận vai trò chính trong việc thiết kế giao diện người dùng (UI) và trang chủ. Nhiệm vụ của Phương sẽ là thiết kế giao diện người dùng cho trang web quản lý nhân sự, bao gồm trang chủ hiển thị thông tin tổng quan và các thành phần UI cần thiết.
+Anh  sẽ được giao các nhiệm vụ sau: xây dựng chức năng quản lý nhân viên. Nhiệm vụ: Phát triển chức năng quản lý nhân viên, bao gồm thêm/xóa/sửa thông tin nhân viên, tìm kiếm và sắp xếp danh sách nhân viên.
+ Linh sẽ đảm nhận nhiệm vụ xây dựng chức năng quản lý bộ phận, Thiết kế và triển khai chức năng quản lý bộ phận, bao gồm tạo/biên tập/xóa bộ phận, hiển thị danh sách bộ phận, và phân loại nhân viên theo bộ phận.
+Dương sẽ đảm nhận vai trò xây dựng chức năng quản lý công việc. Xây dựng chức năng quản lý công việc của nhân viên, bao gồm tạo/biên tập/xóa công việc, giao việc cho nhân viên, và hiển thị danh sách công việc.
+ Ngọc sẽ đảm nhận vai trò kiểm thử và tối ưu hóa trang web quản lý nhân sự. Nhiệm vụ cụ thể của anh ta bao gồm: Kiểm tra tính đúng đắn và độ tương thích trên các trình duyệt và thiết bị khác nhau. Tối ưu hóa hiệu suất và tốc độ tải trang của trang web. 
+
+NOI_DUNG_GOC:
+
+Trong cuộc họp giao nhiệm vụ của chúng ta, chúng ta đã quyết định phân công nhiệm vụ code trang web quản lý nhân sự cho năm thành viên trong nhóm. Dưới đây là phân công cụ thể và deadline cho mỗi thành viên: Phương sẽ đảm nhận vai trò chính trong việc thiết kế giao diện người dùng (UI) và trang chủ. Nhiệm vụ của Phương sẽ là thiết kế giao diện người dùng cho trang web quản lý nhân sự, bao gồm trang chủ hiển thị thông tin tổng quan và các thành phần UI cần thiết.
+Anh  sẽ được giao các nhiệm vụ sau: xây dựng chức năng quản lý nhân viên. Nhiệm vụ: Phát triển chức năng quản lý nhân viên, bao gồm thêm/xóa/sửa thông tin nhân viên, tìm kiếm và sắp xếp danh sách nhân viên.
+ Linh sẽ đảm nhận nhiệm vụ xây dựng chức năng quản lý bộ phận, Thiết kế và triển khai chức năng quản lý bộ phận, bao gồm tạo/biên tập/xóa bộ phận, hiển thị danh sách bộ phận, và phân loại nhân viên theo bộ phận.
+Dương sẽ đảm nhận vai trò xây dựng chức năng quản lý công việc. Xây dựng chức năng quản lý công việc của nhân viên, bao gồm tạo/biên tập/xóa công việc, giao việc cho nhân viên, và hiển thị danh sách công việc.
+ Ngọc sẽ đảm nhận vai trò kiểm thử và tối ưu hóa trang web quản lý nhân sự. Nhiệm vụ cụ thể của anh ta bao gồm: Kiểm tra tính đúng đắn và độ tương thích trên các trình duyệt và thiết bị khác nhau. Tối ưu hóa hiệu suất và tốc độ tải trang của trang web. Chúng ta sẽ thiết lập các cuộc họp định kỳ để theo dõi tiến độ và giải quyết các vấn đề nảy sinh trong quá trình phát triển. Để đảm bảo hoàn thành dự án đúng hạn, các thành viên được khuyến khích trình bày ý kiến, cùng nhau giải quyết khó khăn, và tuân thủ deadline được đề ra.
