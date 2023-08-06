@@ -1,0 +1,36 @@
+NOI_DUNG_TOM_TAT:
+Trong cuộc họp giao nhiệm vụ của công ty Vạn Hoa đã quyết định phân công nhiệm vụ code trang web quản lý nhân sự cho năm thành viên trong nhóm. 
+
+NHIEM_VU:
+NGUOI_LAM: Phương
+NOI_DUNG_CV: Phương sẽ đảm nhận vai trò chính trong việc thiết kế giao diện người dùng (UI) và trang chủ. Nhiệm vụ của Phương sẽ là thiết kế giao diện người dùng cho trang web quản lý nhân sự, bao gồm trang chủ hiển thị thông tin tổng quan và các thành phần UI cần thiết.
+THOI_GIAN: Deadline 1 tháng 1, 2023
+
+NGUOI_LAM: Anh
+NOI_DUNG_CV: Anh sẽ được giao các nhiệm vụ sau: xây dựng chức năng quản lý nhân viên. Nhiệm vụ: Phát triển chức năng quản lý nhân viên, bao gồm thêm, xóa, sửa thông tin nhân viên, tìm kiếm và sắp xếp danh sách nhân viên.
+THOI_GIAN: Deadline 7 tháng 1, 2023
+
+NGUOI_LAM: Linh
+NOI_DUNG_CV: Linh sẽ đảm nhận nhiệm vụ xây dựng chức năng quản lý bộ phận, Thiết kế và triển khai chức năng quản lý bộ phận, bao gồm tạo,biên tập,xóa bộ phận, hiển thị danh sách bộ phận, và phân loại nhân viên theo bộ phận. 
+
+THOI_GIAN: Deadline 14 tháng 1, 2023
+
+NGUOI_LAM: Dương
+NOI_DUNG_CV: Dương sẽ đảm nhận vai trò xây dựng chức năng quản lý công việc. 
+Xây dựng chức năng quản lý công việc của nhân viên, bao gồm tạo biên tập, xóa công việc, giao việc cho nhân viên, và hiển thị danh sách công việc.
+THOI_GIAN: Deadline 21 tháng 1, 2023
+
+NGUOI_LAM: Ngọc
+NOI_DUNG_CV: Ngọc sẽ đảm nhận vai trò kiểm thử và tối ưu hóa trang web quản lý nhân sự. Nhiệm vụ cụ thể của anh ta bao gồm: Kiểm tra tính đúng đắn và độ tương thích trên các trình duyệt và thiết bị khác nhau. Tối ưu hóa hiệu suất và tốc độ tải trang của trang web. 
+THOI_GIAN: Deadline 25 tháng 1, 2023
+ 
+
+NOI_DUNG_GOC:
+Trong cuộc họp giao nhiệm vụ của chúng ta, chúng ta đã quyết định phân công nhiệm vụ code trang web quản lý nhân sự cho năm thành viên trong nhóm. 
+Dưới đây là phân công cụ thể và deadline cho mỗi thành viên: Phương sẽ đảm nhận vai trò chính trong việc thiết kế giao diện người dùng (UI) và trang chủ. Nhiệm vụ của Phương sẽ là thiết kế giao diện người dùng cho trang web quản lý nhân sự, bao gồm trang chủ hiển thị thông tin tổng quan và các thành phần UI cần thiết. Deadline 1 tháng 1, 2023. Anh sẽ được giao các nhiệm vụ sau: xây dựng chức năng quản lý nhân viên. Nhiệm vụ: Phát triển chức năng quản lý nhân viên, bao gồm thêm, xóa, sửa thông tin nhân viên, tìm kiếm và sắp xếp danh sách nhân viên. Deadline 7 tháng 1, 2023. 
+Linh sẽ đảm nhận nhiệm vụ xây dựng chức năng quản lý bộ phận, Thiết kế và triển khai chức năng quản lý bộ phận, bao gồm tạo,biên tập,xóa bộ phận, hiển thị danh sách bộ phận, và phân loại nhân viên theo bộ phận. 
+Deadline 14 tháng 1, 2023. Dương sẽ đảm nhận vai trò xây dựng chức năng quản lý công việc. 
+Xây dựng chức năng quản lý công việc của nhân viên, bao gồm tạo biên tập, xóa công việc, giao việc cho nhân viên, và hiển thị danh sách công việc. Deadline 21 tháng 1, 2023. 
+Ngọc sẽ đảm nhận vai trò kiểm thử và tối ưu hóa trang web quản lý nhân sự. Nhiệm vụ cụ thể của anh ta bao gồm: Kiểm tra tính đúng đắn và độ tương thích trên các trình duyệt và thiết bị khác nhau. 
+Tối ưu hóa hiệu suất và tốc độ tải trang của trang web. Deadline 25 tháng 1, 2023. Chúng ta sẽ thiết lập các cuộc họp định kỳ để theo dõi tiến độ và giải quyết các vấn đề nảy sinh trong quá trình phát triển.
+ Để đảm bảo hoàn thành dự án đúng hạn, các thành viên được khuyến khích trình bày ý kiến, cùng nhau giải quyết khó khăn, và tuân thủ deadline được đề ra.

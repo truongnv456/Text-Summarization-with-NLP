@@ -1,0 +1,33 @@
+NOI_DUNG_TOM_TAT:
+Công ty Nam Khánh  diễn ra cuộc họp quan trọng để bàn về dự án thiết kế chung cư. Hội trưởng cuộc họp là anh Nguyễn Hồng Long, người sẽ chịu trách nhiệm chủ tọa và điều phối quá trình làm việc
+
+NHIEM_VU
+NGUOI_LAM: Quyết
+NOI_DUNG_CV: Quyết sẽ đảm nhận nhiệm vụ tạo bản vẽ kiến trúc tổng quan của chung cư, bao gồm: Thiết kế bố trí các tòa nhà, khu vực công cộng và các tiện ích khác. Xác định vị trí các căn hộ, sân vườn và khu chơi cho trẻ em.
+THOI_GIAN: Deadline 14 tháng 6, 2023
+
+NGUOI_LAM: Linh
+NOI_DUNG_CV: Linh đảm nhận nhiệm vụ thiết kế nội thất cho các căn hộ trong chung cư, bao gồm: Lựa chọn các vật liệu, màu sắc và phong cách thiết kế phù hợp. Tạo ra bản vẽ chi tiết cho các phòng khách, phòng ngủ, nhà bếp và phòng tắm.
+THOI_GIAN: Deadline 22 tháng 6, 2023
+
+NGUOI_LAM: Chi
+NOI_DUNG_CV: Chi đảm nhận nhiệm vụ thiết kế khu vực xanh và không gian ngoại thất của chung cư, bao gồm: Tạo ra các khu vườn, sân thượng và khu vực thư giãn cho cư dân. Thiết kế hệ thống cảnh quan, cây xanh và hệ thống thoát nước
+THOI_GIAN: Deadline 12 tháng 6, 2023
+
+NGUOI_LAM: Dũng
+NOI_DUNG_CV: Dũng đảm nhận nhiệm vụ thiết kế hệ thống kỹ thuật và an ninh của chung cư, bao gồm: Thiết kế hệ thống điện, hệ thống cấp thoát nước và hệ thống điều hòa không khí. Xác định các biện pháp bảo mật như hệ thống giám sát, kiểm soát ra vào và chữ ký điện tử
+THOI_GIAN: Deadline 26 tháng 7, 2023
+
+NOI_DUNG_GOC:
+Ngày 23 tháng 5 năm 2023, tại công ty Nam Khánh , đã diễn ra cuộc họp quan trọng để bàn về dự án thiết kế chung cư.
+ Tham gia cuộc họp có 5 người đó có các thành viên: Long, Quyết, Linh, Chi, Dũng. 
+ Hội trưởng cuộc họp là anh  Long, người sẽ chịu trách nhiệm chủ tọa và điều phối quá trình làm việc. 
+ Các thành viên trong nhóm đã được phân công nhiệm vụ cụ thể để đảm nhận trong quá trình thiết kế chung cư.
+ Dưới đây là phân công nhiệm vụ  cho mỗi thành viên: Quyết sẽ đảm nhận nhiệm vụ tạo bản vẽ kiến trúc tổng quan của chung cư, bao gồm: Thiết kế bố trí các tòa nhà, khu vực công cộng và các tiện ích khác.
+ Xác định vị trí các căn hộ, sân vườn và khu chơi cho trẻ em. Deadline 14 tháng 6, 2023.
+ Linh sẽ đảm nhận nhiệm vụ thiết kế nội thất cho các căn hộ trong chung cư, bao gồm: Lựa chọn các vật liệu, màu sắc và phong cách thiết kế phù hợp. 
+ Tạo ra bản vẽ chi tiết cho các phòng khách, phòng ngủ, nhà bếp và phòng tắm. Deadline 22 tháng 6, 2023. Chi sẽ đảm nhận nhiệm vụ thiết kế khu vực xanh và không gian ngoại thất của chung cư, bao gồm:
+ Tạo ra các khu vườn, sân thượng và khu vực thư giãn cho cư dân. Thiết kế hệ thống cảnh quan, cây xanh và hệ thống thoát nước. Deadline 12 tháng 6, 2023. 
+ Dũng sẽ đảm nhận nhiệm vụ thiết kế hệ thống kỹ thuật và an ninh của chung cư, bao gồm: Thiết kế hệ thống điện, hệ thống cấp thoát nước và hệ thống điều hòa không khí. 
+ Xác định các biện pháp bảo mật như hệ thống giám sát, kiểm soát ra vào và chữ ký điện tử. Deadline 26 tháng 7, 2023.
+ Cuộc họp đã kết thúc với cam kết từ mỗi thành viên về việc hoàn thành công việc đúng hạn và hợp tác chặt chẽ để mang đến dự án thiết kế chung cư thành công.

@@ -1,0 +1,23 @@
+NOI_DUNG_TOM_TAT:   
+Gia đình ông Nguyễn Văn Tùng tổ chức cuộc họp gia đình để khen thưởng em Nguyễn Văn Trung. Vì trong năm nay Trung có nhiều thành tích đáng khen ngợi đó là: cố gắng học tập đạt kết quả cao, giúp đỡ bố mẹ, cảm thông, chia sẻ với các bạn có hoàn cảnh khó khăn.
+
+NHIEM_VU:
+NGUOI_LAM: Hùng
+NOI_DUNG_CV: Hùng sẽ đảm nhận chọn địa điểm cho gia đình tham gia chuyến hoạt động giã ngoại
+THOI_GIAN: Deadline 5 tháng 6, 2023
+
+NGUOI_LAM: Hiền
+NOI_DUNG_CV: Hiền đảm nhận thuê ô tô, mua sắm dụng cụ, đồ ăn , nước , hoa quả phục vụ chuyến giã ngoại
+THOI_GIAN: Deadline 6 tháng 6, 2023
+
+NGUOI_LAM: Trung
+NOI_DUNG_CV: Trung đảm nhận việc sắp xếp, chuẩn bị đồ dùng cá nhân cho cả nhà
+THOI_GIAN: Deadline 7 tháng 6, 2023
+
+NGUOI_LAM: Quỳnh
+NOI_DUNG_CV: Quỳnh giúp đỡ Trung hoàn thành công việc được giao
+THOI_GIAN: Deadline 6 tháng 6, 2023
+NOI_DUNG_GOC:
+Hôm nay ngày 30 tháng 05 năm 2023, gia đình ông Tùng tổ chức cuộc họp gia đình để khen thưởng em  Trung vì trong năm nay Trung có nhiều thành tích đáng khen ngợi đó là: Luôn cố gắng học tập đạt kết quả cao trong kì kiểm tra cuối năm, luôn giúp đỡ bố mẹ  công việc gia đình đặc biệt là biết cảm thông, chia sẻ với các bạn có hoàn cảnh khó khăn.Gia đình quyết định thưởng cho Trung một chuyến du lịch cùng các thành viên trong gia đình. Để chuyến đi được thuận lợi và tốt đẹp, mỗi người sẽ đảm nhận một nhiệm vụ:  Hùng sẽ  đảm nhận chọn địa điểm cho gia đình tham gia chuyến hoạt động giã ngoại. Deadline 5 tháng 6, 2023. Hiền đảm nhận thuê ô tô, mua sắm dụng cụ, đồ ăn , nước , hoa quả phục vụ chuyến giã ngoại. Deadline 6 tháng 6, 2023. Trung đảm nhận việc sắp xếp, chuẩn bị đồ dùng cá nhân cho cả nhà. Deadline 7 tháng 6, 2023. Quỳnh nhận nhiệm vụ giúp đỡ Trung hoàn thành công việc được giao. Deadline 7 tháng 6, 2023. Buổi họp gia đình anh Tùng kết thúc với 100% các thành viên trong gia đình tán thành .
+
+

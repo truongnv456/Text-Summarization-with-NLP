@@ -1,0 +1,40 @@
+NOI_DUNG_TOM_TAT:
+Tại trường trường THCS Nguyễn Huệ  diễn ra cuộc họp của các giáo viên chủ  nhiệm lớp 8 cùng nhau lên kế hoạch cho hội chợ xuân chào đón năm Quý Mão cho học sinh khối lớp 8. 
+
+NHIEM_VU:
+NGUOI_LAM: Nga
+NOI_DUNG_CV: Nga sẽ đảm nhận lên ý tưởng thiết kế các gian hàng , các mặt hàng cho hội chợ mang nét đặc trưng của chợ quê xưa
+THOI_GIAN: Deadline 12 tháng 2, 2023
+
+NGUOI_LAM: Thuý
+NOI_DUNG_CV: đảm nhận  liên lạc với các chi hội trưởng của các lớp tìm , mượn và mua các dụng cụ, phương tiện để xây dựng gian hàng
+THOI_GIAN: Deadline 14 tháng 2, 2023
+
+NGUOI_LAM: Huệ
+NOI_DUNG_CV: Huệ đảm nhiệm kêu gọi học sinh và phụ huynh ủng hộ,sách,báo,truyện và xây dựng thư viện khoa học trong gian hàng
+THOI_GIAN: Deadline 10 tháng 2, 2023
+
+NGUOI_LAM: Thương
+NOI_DUNG_CV: Thương đảm nhận mua sắm các mặt hàng như lương thực,đồ ăn, các sản phẩm độc đáo để thu hút khách đến mua hàng
+THOI_GIAN: Deadline 15 tháng 2, 2023
+
+NGUOI_LAM: Linh 
+NOI_DUNG_CV: Linh đảm nhận tuyển chọn đội văn nghệ và chọn tiết mục hướng dẫn học sinh tập
+THOI_GIAN: Deadline 16 tháng 2, 2023
+
+NGUOI_LAM: Liên 
+NOI_DUNG_CV: Liên đảm nhận thuê trang phục và dụng cụ cho đội văn nghệ
+THOI_GIAN: Deadline 20 tháng 2, 2023
+
+NOI_DUNG_GOC:
+Hôm nay vào hồi 15 giờ 30 ngày 12 tháng 1 năm 2023, tại trường trường THCS Nguyễn Huệ  diễn ra cuộc họp của các giáo viên chủ  nhiệm lớp 8 cùng nhau lên kế hoạch cho hội chợ xuân chào đón năm Quý Mão cho học sinh khối lớp 8. 
+Cuộc họp có 5 người tham gia đó là: Đông, Nga, Thuý, Thương, Linh. Trần Đông tổ trưởng triển khai nội dung công việc và giao nhiệm vụ cho từng thành viên. 
+Dưới đây là phần nhiệm vụ, công việc cần thực hiện: Nga sẽ đảm nhận lên ý tưởng thiết kế các gian hàng , các mặt hàng cho hội chợ mang nét đặc trưng của chợ quê xưa. Deadline 12 tháng 2, 2023. 
+Thuý sẽ đảm nhận  liên lạc với các chi hội trưởng của các lớp tìm , mượn và mua các dụng cụ, phương tiện để xây dựng gian hàng. Deadline 14 tháng 2, 2023. 
+Huệ đảm nhiệm kêu gọi học sinh và phụ huynh ủng hộ,sách,báo,truyện và xây dựng thư viện khoa học trong gian hàng. Deadline 10 tháng 2, 2023. 
+Thương đảm nhận mua sắm các mặt hàng như lương thực,đồ ăn, các sản phẩm độc đáo để thu hút khách đến mua hàng. Deadline 15 tháng 2, 2023. 
+Linh đảm nhận tuyển chọn đội văn nghệ và chọn tiết mục hướng dẫn học sinh tập. Deadline 16 tháng 2, 2023. Liên đảm nhận thuê trang phục và dụng cụ cho đội văn nghệ. Deadline 20 tháng 2, 2023.
+Cuộc họp đã kết thúc với cam kết từ mỗi thành viên về việc hoàn thành công việc đúng hạn.
+
+
+

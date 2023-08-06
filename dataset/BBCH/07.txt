@@ -1,0 +1,35 @@
+﻿NOI_DUNG_TOM_TAT:
+Ngày 10 tháng 9 năm 2022, ban giám đốc Công ty Sông Đà tổ chức cuộc phân công công việc cho từng thành viên. Tham gia cuộc họp có  4 thành viên đó là các thành viên: Chung, Thanh, Thắng, Sơn.  Chung vừa được bổ nhiệm làm giám đốc là người chủ trì cuộc họp.
+
+NHIEM_VU:
+NGUOI_LAM: Chung 
+NOI_DUNG_CV: Chung thông báo nội dung công việc mà tổng công ty ban hành và giao nhiệm vụ cho từng thành viên. Sau đây là nhiệm vụ mà mỗi thành viên cần đảm nhiệm. Chung đảm nhận nhiệm vụ giữ chức vụ giám đốc công ty nhiệm vụ của là Lãnh đạo, quản lý, điều hành chung mọi hoạt động và công tác, trực tiếp chỉ đạo xây dựng chiến lược, quy hoạch, kế hoạch phát triển chung của công ty. Chịu trách nhiệm người đứng đầu và ký các văn bản liên quan đến công tác tổ chức, quản lý hoạt động của cơ quan theo thẩm quyền và phân cấp quản lý cán bộ.
+THOI_GIAN: Deadline 20 tháng 9, 2023
+
+NGUOI_LAM: Thanh
+NOI_DUNG_CV: Thanh đảm nhận giữ chức vụ phó giám đốc nhiệm vụ của ông là giúp giám đốc  chỉ đạo và chịu trách nhiệm theo quy định của pháp luật về các lĩnh vực: bảo trì, sửa chữa đường bộ,
+ quy hoạch sử dụng đất các công trình, công tác chuẩn bị đầu tư và quản lý nhà nước các dự án đầu tư bằng nguồn vốn ODA.
+THOI_GIAN: Deadline 10 tháng 9, 2023
+
+NGUOI_LAM: Thắng
+NOI_DUNG_CV: Thắng đảm nhận giữ chức vụ phó giám đốc có nhiệm vụ giúp Giám đốc chỉ đạo và chịu trách nhiệm theo quy định của pháp luật đối với lĩnh vực quản lý nhà nước về hoạt động vận tải, 
+ công nghiệp, trực tiếp chỉ đạo, theo dõi các đơn vị thi công.
+THOI_GIAN: Deadline 9 tháng 9, 2023
+
+NGUOI_LAM: Sơn
+NOI_DUNG_CV: Sơn đảm nhận giữ chức vụ phó giám đốc, có trách nhiệm giúp Giám đốc chỉ đạo và chịu trách nhiệm theo quy định của pháp luật về các lĩnh vực: Công tác kế hoạch, chuẩn bị đầu tư và quản lý nhà nước các dự án trọng điểm, dự án đầu tư bằng nguồn vốn trong nước, ký các văn bản liên quan đến công tác quản lý kỹ thuật, khoa học công nghệ môi trường
+THOI_GIAN: Deadline 20 tháng 9, 2023
+
+NOI_DUNG_GOC:
+Hôm nay ngày 10 tháng 9 năm 2022, ban giám đốc Công ty Sông Đà tổ chức cuộc phân công công việc cho từng thành viên.
+ Tham gia cuộc họp có  4 thành viên đó là các thành viên: Chung, Thanh, Thắng, Sơn. Chung vừa được bổ nhiệm làm giám đốc là người chủ trì cuộc họp.  
+ Chung thông báo nội dung công việc mà tổng công ty ban hành và giao nhiệm vụ cho từng thành viên. Sau đây là nhiệm vụ mà mỗi thành viên cần đảm nhiệm.
+ Chung đảm nhận nhiệm vụ giữ chức vụ giám đốc công ty nhiệm vụ của là Lãnh đạo, quản lý, điều hành chung mọi hoạt động và công tác, trực tiếp chỉ đạo xây dựng chiến lược, quy hoạch, kế hoạch phát triển chung của công ty.
+ Chịu trách nhiệm người đứng đầu và ký các văn bản liên quan đến công tác tổ chức, quản lý hoạt động của cơ quan theo thẩm quyền và phân cấp quản lý cán bộ. Deadline 20 tháng 9, 2023.
+ Thanh đảm nhận giữ chức vụ phó giám đốc nhiệm vụ của ông là giúp giám đốc  chỉ đạo và chịu trách nhiệm theo quy định của pháp luật về các lĩnh vực: bảo trì, sửa chữa đường bộ,
+ quy hoạch sử dụng đất các công trình, công tác chuẩn bị đầu tư và quản lý nhà nước các dự án đầu tư bằng nguồn vốn ODA. Deadline 10 tháng 9, 2023.
+ Thắng đảm nhận giữ chức vụ phó giám đốc có nhiệm vụ giúp Giám đốc chỉ đạo và chịu trách nhiệm theo quy định của pháp luật đối với lĩnh vực quản lý nhà nước về hoạt động vận tải, 
+ công nghiệp, trực tiếp chỉ đạo, theo dõi các đơn vị thi công. Deadline 9 tháng 9, 2023.
+ Sơn đảm nhận giữ chức vụ phó giám đốc, có trách nhiệm giúp Giám đốc chỉ đạo và chịu trách nhiệm theo quy định của pháp luật về các lĩnh vực: Công tác kế hoạch, chuẩn bị đầu tư và quản lý nhà nước các dự án trọng điểm, dự án đầu tư bằng nguồn vốn trong nước, ký các văn bản liên quan đến công tác quản lý kỹ thuật, khoa học công nghệ môi trường. Deadline 20 tháng 9, 2023.
+ Thời gian các đồng chí thực hiện các công việc trên là 1 năm bắt đầu từ hôm nay. Cuộc họp của ban giám đốc công ty Sông Đà kết thúc với 100% các thành viên trong cuộc họp nhất trí.
+

@@ -1,0 +1,27 @@
+﻿NOI_DUNG_TOM_TAT:
+Ban chi uỷ chi bộ bệnh viện đa khoa Đan Phượng họp bàn phiên định kỳ thứ nhất nhằm phân công các đồng chí chi ủy viên phụ trách các lĩnh vực công tác. Ban chi uỷ gồm có 4 ông bà có tên sau: Lợi, Lương, Đậm, Hương.
+
+NHIEM_VU:
+NGUOI_LAM: Lợi
+NOI_DUNG_CV: Ông Lợi bí thư chi bộ là người điều hành thông báo quyết định của đảng bộ bà phân công nhiệm vụ cho từng thành viên. Nhiệm vụ mà mỗi người phụ trách như sau: Lợi sẽ đảm nhận chịu trách nhiệm quán xuyến toàn diện sự lãnh đạo của chi bộ, chi ủy trên các lĩnh vực công tác chuyên môn của đơn vị. Trực tiếp phụ trách các lĩnh vực công tác: chính trị tư tưởng; tổ chức cán bộ; kế hoạch, tài chính; cơ sở vật chất, thiết bị; cải cách hành chính; đối ngoại; công tác bảo vệ chính trị nội bộ; công tác giáo dục chính trị tư tưởng của cán bộ, đảng viên, công tác thi đua, khen thưởng.
+THOI_GIAN: Deadline 23 tháng 6, 2023
+
+NGUOI_LAM: Lương
+NOI_DUNG_CV: Lương sẽ đảm nhận trực tiếp phụ trách các lĩnh vực công tác xây dựng Đảng, chế độ thông tin, báo cáo và bảo mật, tham mưu cho chi ủy triển khai thực hiện Quy chế dân chủ.
+ Xây dựng Chương trình hành động, Kế hoạch thực hiện Nghị Quyết của cấp trên; chỉ đạo, giám sát công tác chuyên môn các khoa, phòng trong đơn vị.
+THOI_GIAN: Deadline 23 tháng 6, 2023
+
+NGUOI_LAM: Đậm
+NOI_DUNG_CV:  Đậm phụ trách các lĩnh vực công tác: Kiểm tra, giám sát và thi hành kỷ luật của Chi bộ, Chi ủy; công tác giải quyết khiếu nại, tố cáo; phụ trách chỉ đạo hoạt động của các đoàn thể.
+THOI_GIAN: Deadline 20 tháng 6, 2023
+
+NGUOI_LAM: Hương
+NOI_DUNG_CV: Hương đảm nhận phụ trách các lĩnh vực công tác: Dân vận, báo cáo viên, tuyên truyền viên, công tác phát triển đảng viên của Chi bộ.
+THOI_GIAN: Deadline 23 tháng 6, 2023
+
+NOI_DUNG_GOC:
+Hôm nay ngày 23 tháng 6 năm 2022 ban chi uỷ chi bộ bệnh viện đa khoa Đan Phượng họp bàn phiên định kỳ thứ nhất nhằm phân công các đồng chí chi ủy viên phụ trách các lĩnh vực công tác. 
+Ban chi uỷ gồm có 4 ông bà có tên sau: Lợi, Lương, Đậm, Hương. 
+Ông Lợi bí thư chi bộ là người điều hành thông báo quyết định của đảng bộ bà phân công nhiệm vụ cho từng thành viên. 
+Nhiệm vụ mà mỗi người phụ trách như sau: Lợi sẽ đảm nhận chịu trách nhiệm quán xuyến toàn diện sự lãnh đạo của chi bộ, chi ủy trên các lĩnh vực công tác chuyên môn của đơn vị.Trực tiếp phụ trách các lĩnh vực công tác: chính trị tư tưởng; tổ chức cán bộ; kế hoạch, tài chính; cơ sở vật chất, thiết bị; cải cách hành chính; đối ngoại; công tác bảo vệ chính trị nội bộ; công tác giáo dục chính trị tư tưởng của cán bộ, đảng viên, công tác thi đua, khen thưởng. Deadline 23 tháng 6, 2023. Lương sẽ đảm nhận trực tiếp phụ trách các lĩnh vực công tác xây dựng Đảng, chế độ thông tin, báo cáo và bảo mật, tham mưu cho chi ủy triển khai thực hiện Quy chế dân chủ. Xây dựng Chương trình hành động, Kế hoạch thực hiện Nghị Quyết của cấp trên; chỉ đạo, giám sát công tác chuyên môn các khoa, phòng trong đơn vị. Deadline 23 tháng 6, 2023. Đậm phụ trách các lĩnh vực công tác: Kiểm tra, giám sát và thi hành kỷ luật của Chi bộ, Chi ủy; công tác giải quyết khiếu nại, tố cáo; phụ trách chỉ đạo hoạt động của các đoàn thể. Deadline 20 tháng 6, 2023. Hương đảm  nhận phụ trách các lĩnh vực công tác: Dân vận, báo cáo viên, tuyên truyền viên, công tác phát triển đảng viên của Chi bộ. Deadline 23 tháng 6, 2023. Thời gian để các đồng chí đảm nhiệm công việc trên bắt đầu từ hôm nay đến ngày 23 tháng 6 năm 2023. Cuộc họp được tất cả các thành viên tán thành.
+

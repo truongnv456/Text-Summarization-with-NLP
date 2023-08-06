@@ -1,0 +1,52 @@
+NOI_DUNG_TOM_TAT:
+Gia đình Tuyến tổ chức cuộc họp nhằm tìm các biện pháp giúp Hùng cai nghiện ma tuý. Tuyến nêu tác hại của ma tuý đối với Hùng và cộng đồng.
+
+NHIEM_VU:
+NGUOI_LAM: Trung
+NOI_DUNG_CV: Trung đảm nhận liên lạc với các trung tâm cai nghiện tìm biện pháp tốt nhất giúp Hùng cắt cơn. Deadline 11 tháng 1, 2022.
+THOI_GIAN: Deadline 11 tháng 1, 2022.
+
+NGUOI_LAM: Mai
+NOI_DUNG_CV: Mai sẽ nhận nhiệm vụ thông báo với cơ quan công an và chính quyền địa phương giúp đỡ Hùng cách ly với nhóm đối tượng nghiện ngập.
+THOI_GIAN: Deadline 15 tháng 1, 2022.
+
+NGUOI_LAM: Tuyến
+NOI_DUNG_CV: Tuyến đảm nhận vai trò hàng ngày giúp Hùng tham gia vào các hoạt động sản  xuất lao động cùng gia đình. 
+THOI_GIAN: Deadline 11 tháng 2, 2022.
+
+NGUOI_LAM: Hồng
+NOI_DUNG_CV: Hồng sẽ nhận nhiệm vụ chăm sóc sức khoẻ và động viên Hùng vượt qua các cơn nghiện. 
+THOI_GIAN: Deadline 15 tháng 2, 2022.
+
+NOI_DUNG_GOC:
+Hôm nay ngày 24 tháng 10 năm 2021, gia đình Tuyến tổ chức cuộc họp gia đình nhằm tìm các biện pháp giúp Hùng cai nghiện ma tuý. 
+Tuyến nêu tác hại của ma tuý đối với Hùng và cộng đồng đó là gây tổn hại về sức khoẻ như hệ tiêu hoá, hệ hô hấp, hệ tuần hoàn, các bệnh về da, làm suy giảm chức năng thải độc, dẫn đến tình trạng suy nhược toàn thân, 
+suy giảm sức lao động, sử dụng ma tuý quá liều có thể bị chết đột ngột. 
+Ma tuý làm suy giảm lực lượng lao động, gia tăng tình hình tội phạm gây ảnh hưởng đến an ninh trật tự  là nguyên nhân, điều kiện nảy sinh, phát triển các tệ nạn xã hội khác. 
+Để giúp  Hùng cai nghiện, gia đình thống nhất và đưa ra nhiệm vụ cho mỗi thành viên. 
+Cụ thể như sau: Trung đảm nhận liên lạc với các trung tâm cai nghiện tìm biện pháp tốt nhất giúp Hùng cắt cơn. Deadline 11 tháng 1, 2022. Mai sẽ nhận nhiệm vụ thông báo với cơ quan công an và chính quyền địa phương giúp đỡ Hùng cách ly với nhóm đối tượng nghiện ngập. Deadline 15 tháng 1, 2022. 
+Tuyến đảm nhận vai trò hàng ngày giúp Hùng tham gia vào các hoạt động sản  xuất lao động cùng gia đình. Deadline 11 tháng 2, 2022. Hồng sẽ nhận nhiệm vụ chăm sóc sức khoẻ và động viên Hùng vượt qua các cơn nghiện. Deadline 15 tháng 2, 2022.
+Thời gian để mọi người thực hiện bắt đầu từ hôm nay ngày 24 tháng 10 năm 2021 đến khi Hùng khỏi nghiện. Buổi họp gia đình Tuyến kết thúc với 100% các thành viên trong gia đình tán thành. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
